@@ -1,0 +1,57 @@
+
+Python is an object-oriented, interpreted, high-level programming language. It is general purpose, and we use it to develop GUI and web applications
+
+two types of language
+-> interpreted language
+    An interpreted language is executed line by line by an interpreter at runtime.
+    ex  Python JavaScript Ruby
+
+-> compaile language
+ A compiled language is converted into machine code before execution using a compiler.
+Examples: C C++ Go
+
+-> Java is a Hybrid Language (both compiled and interpreted).
+
+-> was created by Guido van Rossam  in 1991
+
+
+it is simple and easy to learn
+it has libraries for almost evrtything Django for web deve and Mataplotib for data visualiation
+it is ralibale efficent and time-saving
+it has a large active and helpful open-sources community
+
+
+Use in Python
+
+  web application
+     Django, Flask
+  Desktop Application
+     PyGTK
+  Meachine Learning DS and Deep Learning
+       Sklearn
+  Cloud and DevOps
+     Openstack APi
+  Hardware Programming
+     Rasberry PI
+
+ Companies are Used 
+
+  Google
+  NefFlex
+  Nasa
+  Youtube
+
+Geetin stared :installing Python 
+  Ubuntu: Sudo apt-get Install Py3.8
+  fedora : sudo dnf install py3
+  centOs: sudo yum install py3
+  https://www.python.org/downloads/windows/
+
+
+
+  ### Python Variables
+  it is container to store the different data
+  
+  
+
+
