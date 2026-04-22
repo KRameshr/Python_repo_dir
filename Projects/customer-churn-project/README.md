@@ -32,7 +32,7 @@ A full-stack web application to analyze customer churn data using a modern archi
 - Flask-CORS
 
 ---
-
+````
 ## Project Structure
 
 customer-churn-project/
@@ -89,3 +89,4 @@ customer-churn-project/
 │ └── main.jsx
 │
 └── README.md let build fronted step by step react
+```
