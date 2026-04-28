@@ -1,0 +1,33 @@
+pandas — import pandas as pd
+
+"pandas is used for data manipulation and analysis. It gives us the DataFrame structure — like an Excel table in Python — where we can filter, group, sort and aggregate data easily."
+
+
+numpy — import numpy as np
+
+"numpy is used for numerical computing. We used it for statistical calculations like mean, median, standard deviation, and Pearson correlation between hospital metrics."
+
+
+matplotlib.pyplot — import matplotlib.pyplot as plt
+
+"matplotlib is Python's core plotting library. We used it to create all 8 charts — bar charts, scatter plots, bubble charts and box plots — and save them as PNG files."
+
+
+matplotlib.patches — import matplotlib.patches as mpatches
+
+"patches is a sub-module of matplotlib. We used it specifically to create colored legend boxes in the charts — for example the Metro-Heavy, Balanced, Non-Metro-Heavy color legends."
+
+
+seaborn — import seaborn as sns
+
+"seaborn is built on top of matplotlib and makes charts look more professional with less code. We used sns.set_theme() to apply a clean whitegrid background style to all charts."
+
+
+tabulate — from tabulate import tabulate
+
+"tabulate is used to print data as formatted tables in the terminal. We used it to display the full hospital metrics table, metro vs non-metro comparison, and statistical insights in a readable grid format."
+
+
+warnings — import warnings + warnings.filterwarnings("ignore")
+
+"warnings is a built-in Python module. We used it to suppress non-critical warning messages so the terminal output stays clean when running the script."
