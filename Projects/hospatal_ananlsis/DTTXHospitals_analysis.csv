@@ -1,0 +1,19 @@
+Name,Ticker,MarketCap_Cr,Metro_pct,NonMetro_pct,ARPOB_day,ALOS_days,Occupancy_pct,EBITDA_Cr,EV_EBITDA,NetDebt_EBITDA,Capex_Cr,ARPOB_annual_Cr,MarketCap_Tier,Focus
+Apollo Hospitals,APOLLOHOSP,111181,78,22,63569,3.06,67,3022,30,0.4,2701,2.32,Large Cap (>50K Cr),Metro-Heavy
+Max Healthcare,MAXHEALTH,97261,95,5,77000,3.2,74,1884,42,-0.3,1100,2.81,Large Cap (>50K Cr),Metro-Heavy
+Fortis Healthcare,FORTIS,70158,92,8,66300,3.4,69,1570,35,0.8,1200,2.42,Large Cap (>50K Cr),Metro-Heavy
+Aster DM Healthcare,ASTERDM,36457,65,35,44000,3.5,65,808,28,0.5,900,1.61,Mid Cap (10K-50K Cr),Balanced
+Narayana Hrudayalaya,NH,35914,45,55,43600,3.8,51,1308,27,0.2,800,1.59,Mid Cap (10K-50K Cr),Non-Metro-Heavy
+Global Health (Medanta),MEDANTA,29700,85,15,64000,3.3,65,840,38,0.3,1500,2.34,Mid Cap (10K-50K Cr),Metro-Heavy
+KIMS,KIMS,26057,60,40,39200,3.6,50,783,17,0.1,600,1.43,Mid Cap (10K-50K Cr),Balanced
+Dr. Agarwal Health Care,AGARWALEYE,13886,70,30,28000,1.5,55,280,32,0.6,500,1.02,Mid Cap (10K-50K Cr),Metro-Heavy
+Rainbow Children's,RAINBOW,12602,80,20,38500,2.8,62,270,25,0.2,350,1.41,Mid Cap (10K-50K Cr),Metro-Heavy
+Park Medi World,PARKHOSPS,10051,75,25,26206,3.2,62,268,22,0.5,400,0.96,Mid Cap (10K-50K Cr),Metro-Heavy
+HCG,HCG,8501,70,30,44500,4.0,60,230,30,1.2,350,1.62,Small Cap (<10K Cr),Metro-Heavy
+Jupiter Life Line,JLHL,8177,90,10,60000,3.5,65,280,32,0.3,500,2.19,Small Cap (<10K Cr),Metro-Heavy
+Yatharth Hospital,YATHARTH,6921,55,45,30800,4.2,61,185,16,0.4,250,1.12,Small Cap (<10K Cr),Balanced
+Kovai Medical Center,KOVAI,6169,20,80,20173,3.8,60,180,14,0.1,150,0.74,Small Cap (<10K Cr),Non-Metro-Heavy
+Nephrocare Health,NEPHROPLUS,5354,60,40,18000,4.5,58,90,20,1.5,120,0.66,Small Cap (<10K Cr),Balanced
+Indraprastha Medical,INDRAMEDCO,3726,100,0,55000,3.2,68,210,22,0.0,200,2.01,Small Cap (<10K Cr),Metro-Heavy
+Dr Agarwal Eye Hospital,DRAGARWQ,2305,65,35,22000,1.0,52,70,28,0.4,150,0.8,Small Cap (<10K Cr),Balanced
+Shalby Ltd,SHALBY,1670,40,60,39000,3.5,47,120,18,0.8,180,1.42,Small Cap (<10K Cr),Non-Metro-Heavy
